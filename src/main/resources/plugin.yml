@@ -1,0 +1,4 @@
+name: VanillaPlus
+version: '${project.version}'
+main: com.aquariusuprim.vanillaplus.VanillaPlus
+api-version: 1.19
